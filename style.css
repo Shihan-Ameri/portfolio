@@ -1,5 +1,7 @@
 .name{
-font-family: 'Cinzel',serif;
+font-family: "BBH Bogle", sans-serif; 
+font-weight:400;
+font-style:normal;
 letter-spacing:3px;
 text-decoration: none;
 color:rgb(0, 0, 0);
@@ -166,6 +168,7 @@ html{
         padding-right:0px;
     }
 }
+
 
 
 
