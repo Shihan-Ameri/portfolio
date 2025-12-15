@@ -157,10 +157,14 @@ body{
 html{
     scroll-behavior:smooth;
 }
-@media(min-width:700px){
+.navbar-nav{
+    padding-right:100px;
+}
+@media(max-width:700px){
     .navbar-nav{
-        padding-right:100px;
+        padding-right:0px;
     }
 }
+
 
 
